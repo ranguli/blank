@@ -1,8 +1,8 @@
-name = "ranguli"
+name = "z80"
 license = "MIT"
-licenselink = "https://github.com/ranguli/blank/blob/master/LICENSE"
-description = "Starter Hugo theme for developers."
-homepage = "https://github.com/ranguli/blank/"
+licenselink = "https://github.com/ranguli/z80/blob/master/LICENSE"
+description = "A dark, retro theme for Hugo."
+homepage = "https://github.com/ranguli/z80/"
 tags = ["blog", "minimal", "dark", "development"]
 features = ["blog"]
 min_version = "0.20"
